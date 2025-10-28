@@ -6,6 +6,7 @@ You can add, remove, and clear items from the list. Includes Jest tests.
 Live Server extension at Visual Studio Code
 
 Make sure you have Node.js installed, then run:
+
 npm install
 
 ## Build the project
