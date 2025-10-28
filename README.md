@@ -4,7 +4,11 @@ You can add, remove, and clear items from the list. Includes Jest tests.
 
 ## Install dependencies
 Live Server extension at Visual Studio Code
+
+
 Make sure you have Node.js installed, then run:
+
+
 npm install
 
 ## Build the project
@@ -14,8 +18,6 @@ npm run build
 npm test
 
 ## Running the project
-To view the project in your browser:
-
 Open the project folder in Visual Studio Code
 
 Install the Live Server extension (if not already installed)
